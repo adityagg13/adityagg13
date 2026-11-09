@@ -33,7 +33,7 @@ I like the part of computing most people skip: the layer underneath. Services th
       <h3>LITEXOS Playbook</h3>
       <p>A single-pass Windows playbook for AME Wizard. Debloat, privacy, performance and a full toolkit — then automatic LZX compression at the end.</p>
       <p><code>PowerShell</code> <code>YAML</code> <code>AME</code></p>
-      <sub>Private build · v0.0.8</sub>
+      <sub>Private build · v1.0</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Developer Runtime Customizer</h3>
