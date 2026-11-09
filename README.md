@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:adityakumarjha5052@gmail.com"><img src="https://img.shields.io/badge/Email-adityakumarjha5052%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:adityakumarjha5052@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-7c3aed?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/adityagg13"><img src="https://img.shields.io/badge/GitHub-adityagg13-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=adityagg13&label=profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
 </div>
@@ -15,7 +15,8 @@
 ```yaml
 name:      Developer Runtime
 handle:    adityagg13
-role:      Windows optimizer · Emulator designer · Server tinkerer
+role:      Windows optimizer · Emulator designer
+stack:     PowerShell · Windows internals · React
 focus:     making slow machines feel new again
 status:    building LITEXOS
 ```
@@ -74,16 +75,14 @@ I like the part of computing most people skip: the layer underneath. Services th
 
 <br/>
 
-## Numbers
+## Currently
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityagg13&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagg13&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityagg13&hide_border=true&background=0d1117&stroke=1f2937&ring=a78bfa&fire=22d3ee&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=64748b" alt="Streak" />
-</div>
+| | |
+| :-- | :-- |
+| **Building** | LITEXOS Playbook — a whole Windows setup pass in one click |
+| **Sharpening** | The emulator toolkit: detection, ad cleanup, virtualization, GPU and CPU tuning |
+| **Learning** | Storage internals, signed drivers and clean installer design |
+| **Open to** | Windows tooling, emulator performance and small automation work |
 
 <br/>
 
