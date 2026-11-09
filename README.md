@@ -97,11 +97,13 @@ I like the part of computing most people skip: the layer underneath. Services th
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagg13&layout=compact&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=94a3b8" alt="Top languages" />
 </div>
 
-<!-- OPTIONAL: Snake animation — snake.yml workflow chalane ke baad ye 3 lines uncomment karo
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adityagg13/adityagg13/output/snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityagg13/adityagg13/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityagg13/adityagg13/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/adityagg13/adityagg13/output/snake.svg" alt="snake" />
+  </picture>
 </div>
--->
 
 <br/>
 
