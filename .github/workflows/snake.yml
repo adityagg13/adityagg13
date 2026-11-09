@@ -1,0 +1,40 @@
+# SNAKE ANIMATION SETUP — snake.yml
+# Ye file tumhare GitHub Actions ko daily snake animation generate karne ke liye hai.
+#
+# SETUP:
+# 1. Apne username wale repo me folder banao: .github/workflows/
+# 2. Us folder me file banao: snake.yml
+# 3. Ye content paste karo aur commit kar do
+# 4. Repo Settings > Actions > General > Workflow permissions
+#    > "Read and write permissions" select karo > Save
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Har din midnight pe run hoga (UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch:   # Manually bhi run kar sakte ho
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake.svg
+          svg_palettes: |
+            github-dark
+
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
