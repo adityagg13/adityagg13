@@ -47,7 +47,7 @@ I like the part of computing most people skip: the layer underneath. Services th
       <h3><a href="https://github.com/adityagg13/saas-landing">SaaS Landing</a></h3>
       <p>Dark, animated marketing page with a lean build and an edge worker in front of it.</p>
       <p><code>Vite</code> <code>React 19</code> <code>Cloudflare</code></p>
-      <sub>Public repo</sub>
+      <sub>Public repo · live demo link coming</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Emulator Toolkit</h3>
@@ -72,6 +72,28 @@ I like the part of computing most people skip: the layer underneath. Services th
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" alt="VS Code" />
 </div>
+
+<br/>
+
+## `$ git stat`
+
+> Recruiters skim — so the numbers carry my color palette too.
+> (Fresh account, bare numbers for now — they fill themselves as I ship.)
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityagg13&show_icons=true&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=94a3b8&icon_color=22d3ee&ring_color=a78bfa" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=adityagg13&hide_border=true&background=0f172a&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b&sideNums=e2e8f0&currStreakNum=22d3ee" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagg13&layout=compact&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=94a3b8" alt="Top languages" />
+</div>
+
+<!-- OPTIONAL: Snake animation — snake.yml workflow chalane ke baad ye 3 lines uncomment karo
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adityagg13/adityagg13/output/snake.svg" alt="snake" />
+</div>
+-->
 
 <br/>
 
