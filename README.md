@@ -15,7 +15,7 @@
 - **React / TypeScript UI builder** — clean, modern interfaces
 - **Server designer** — setup, tuning and management
 
-📍 Bihar, India &nbsp;·&nbsp; **Currently building:** [X-ADYO OS](https://github.com/adityagg13/X-ADYO-OS)
+📍 Bihar, India
 
 ---
 
@@ -36,8 +36,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=adityagg13&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4f8dff&icon_color=4f8dff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" width="420" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagg13&layout=compact&hide_border=true&bg_color=0d1117&title_color=4f8dff&text_color=c9d1d9&langs_count=8" alt="Top languages" width="330" /></td>
+    <td><img src="https://grs-eta.vercel.app/api?username=adityagg13&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4f8dff&icon_color=4f8dff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" width="420" /></td>
+    <td><img src="https://grs-eta.vercel.app/api/top-langs/?username=adityagg13&layout=compact&hide_border=true&bg_color=0d1117&title_color=4f8dff&text_color=c9d1d9&langs_count=8" alt="Top languages" width="330" /></td>
   </tr>
 </table>
 
